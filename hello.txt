@@ -1,4 +1,3 @@
-hello yitong! hello git!  修改代码
 hello yitong! hello git!
 hello yitong! hello git!
 hello yitong! hello git!
@@ -14,5 +13,4 @@ hello yitong! hello git!
 hello yitong! hello git!
 hello yitong! hello git!
 hello yitong! hello git!
-修改一行	master test
-修改一行	hot-fix test
+hello yitong! hello git!
