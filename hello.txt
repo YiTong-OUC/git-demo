@@ -15,3 +15,4 @@ hello yitong! hello git!
 hello yitong! hello git!
 hello yitong! hello git!
 修改一行	hot-fix test
+浏览器远程端直接修改一行
