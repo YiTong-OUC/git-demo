@@ -13,8 +13,5 @@ hello yitong! hello git!
 hello yitong! hello git!
 hello yitong! hello git!
 hello yitong! hello git!
-hello yitong! hello git!master test
-=======
-hello yitong! hello git!hot-fix test
-hello yitong! hello git!
->>>>>>> hot-fix-new
+修改一行	hot-fix test
+浏览器远程端直接修改一行
